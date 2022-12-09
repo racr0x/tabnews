@@ -1,16 +1,7 @@
 # tabnews
 
-A new Flutter project.
+https://www.tabnews.com.br/api/v1/users/GabrielSozinho
 
-## Getting Started
+https://www.tabnews.com.br/GabrielSozinho/documentacao-da-api-do-tabnews#j
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.tabnews.com.br/api/v1/contents?page=1&per_page=20&strategy=relevant
